@@ -1,8 +1,8 @@
-streamlit>=1.30.0
-yfinance>=0.2.35
-plotly>=5.18.0
-pandas>=2.0.0
-crewai==0.28.8
-langchain-core>=0.1.30
-reportlab>=4.0.0
-python-dotenv>=1.0.0
+streamlit
+yfinance
+plotly
+pandas
+crewai
+langchain-core
+reportlab
+python-dotenv
