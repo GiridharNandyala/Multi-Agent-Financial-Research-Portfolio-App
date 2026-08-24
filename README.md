@@ -5,6 +5,13 @@ Analyzing financial markets and individual equities typically forces investors, 
 
 To address this workflow bottleneck, I engineered the **Multi-Agent Financial Analytics App**. Operating on multi-agent architectural concepts, this platform automates real-time data ingestion, technical analysis, multi-asset comparative evaluation, and market sentiment extraction into a unified executive dashboard.
 
+
+<!-- BADGES / BUTTONS SECTION -->
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit_App-red?style=for-the-badge&logo=streamlit)](https://giridhar-multi-agent-financial-research-portfolio-app.streamlit.app/)
+[![LinkedIn Post](https://img.shields.io/badge/💼_LinkedIn-Post-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/giridhar-nandyala-5758662b2_python-dataanalysis-streamlit-ugcPost-7497533252426162176-cTpZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs70akBeCLfAOvC2nnAC0kHj16JNBTXqJM)
+
+---
+
 ---
 
 ## 💡 Real-World Value & Business Impact
