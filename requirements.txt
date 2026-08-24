@@ -2,7 +2,4 @@ streamlit
 yfinance
 plotly
 pandas
-crewai
-langchain-core
 reportlab
-python-dotenv
