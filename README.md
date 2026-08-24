@@ -12,7 +12,6 @@ To address this workflow bottleneck, I engineered the **Multi-Agent Financial An
 
 ---
 
----
 
 ## 💡 Real-World Value & Business Impact
 * **Automated Data Aggregation:** Eliminates manual platform switching by compiling financial metrics, news feeds, and charting tools into a centralized interface.
